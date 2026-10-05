@@ -1,4 +1,4 @@
-const CACHE = 'rate-calc-v1';
+const CACHE = 'rate-calc-v2';
 const FILES = [
   './',
   './index.html',
